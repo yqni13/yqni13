@@ -6,46 +6,37 @@
     >
 </div>
 
-<h1 style="text-align: center;font-size: 36px;">
+<h1 align="center">
     <span>Hey, I'm </span>
     <a href="https://yqni13.com">Lukas Varga</a>
-    <img 
-        src="assets/yqni13_logo.png"
-        width="50px"
-        alt="_logo_yqni13"
-        style="vertical-align: middle; margin-left: 5px;"
-    >
+    🧸
 </h1>
 
-<h3 style="text-align:center;font-size:24px;">
-    <span>Web Development from Austria</span>
+<h3 align="center">
+    <span>
+        Web Development from Austria&nbsp;
+    </span>
     <img
         src="assets/flag.png"
         width="25px"
         alt="_flag_Austria"
-        style="vertical-align: middle; margin-left: 5px;"
     >
 </h3>
 
 <br>
-<div style="display: flex; justify-content: center;">
+
+<div align="center" style="white-space:nowrap;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yqni13&theme=omni&hide=contribs,prs&hide_border=false" alt="_yqni13_GitHub_Stats" style="height:120px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqni13&theme=omni&show_icons=true&hide_border=false&layout=compact" alt="_yqni13_GitHub_Languages" style="height:120px;">
+        <img src="https://nirzak-streak-stats.vercel.app/?user=yqni13&theme=omni&hide_border=false" alt="_yqni13_GitHub_Streak" style="height:120px;">
+</div> 
+
+<div>
     <dl style="font-size:20px;">
         <dd>🌱 I’m currently learning to test with ephemeral databases via <a href="https://testcontainers.com/guides/getting-started-with-testcontainers-for-nodejs/" target="_blank">testcontainers</a>.</dd>
         <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
     </dl>
 </div>
-
-<div style="display:flex;justify-content:center;height:200px;margin-top:25px">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=yqni13&theme=omni&hide=contribs,prs&hide_border=false" alt="_yqni13_GitHub_Stats" style="height:200px;">
-    </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqni13&theme=omni&show_icons=true&hide_border=false&layout=compact" alt="_yqni13_GitHub_Languages" style="height:200px;">
-    </div>
-    <div>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=yqni13&theme=omni&hide_border=false" alt="_yqni13_GitHub_Streak" style="height:200px;">
-    </div>
-</div> 
 
 <br>
 
@@ -57,7 +48,7 @@ Current projects
 
 <h3 style="font-size: 22px;">
 
-[$\textsf{\color{violet}Art gallery}$](https://github.com/yqni13/artcreation-dv)
+[Art gallery](https://github.com/yqni13/artcreation-dv)
 
 </h3>
 
@@ -76,7 +67,7 @@ An art gallery website to display the artist (my lovely mom), her artwork and ne
 
 <h3 style="font-size: 22px;">
 
-[$\textsf{\color{violet}Taxi services}$](https://github.com/yqni13/taxi-varga)
+[Taxi services](https://github.com/yqni13/taxi-varga)
 
 </h3>
 
@@ -95,12 +86,12 @@ A website to inform about my fathers taxi services including custom price calcul
 
 <h3 style="font-size: 22px;">
 
-[$\textsf{\color{violet}Support service}$](https://github.com/yqni13/support)
+[Support service](https://github.com/yqni13/support)
 
 </h3>
 
 <p style="font-size: 18px;">
-A backend application to handle bug reports or support on request. The application will use (currently in work) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development.
+A backend application to handle bug reports or support on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development.
 </p>
 
 <div style="margin-bottom: 75px;">
@@ -111,4 +102,6 @@ A backend application to handle bug reports or support on request. The applicati
     >
 </div>
 
-Visit me for more information: [$\textsf{\color{violet}Homepage}$](https://yqni13.com)
+<br>
+
+Visit me for more information: [Homepage](https://yqni13.com)
