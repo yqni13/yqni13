@@ -35,7 +35,7 @@
 
 <div>
     <dl style="font-size:20px;">
-        <dd>🌱 I’m currently learning to test with ephemeral databases via <a href="https://testcontainers.com/guides/getting-started-with-testcontainers-for-nodejs/" target="_blank">testcontainers</a>.</dd>
+        <dd>🌱 I’m currently learning to set my deploying-process up with <a href="https://www.docker.com/" target="_blank">Docker</a> and <a href="https://www.jenkins.io/" target="_blank">Jenkins</a>.</dd>
         <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
     </dl>
 </div>
