@@ -35,7 +35,7 @@
 
 <div>
     <dl style="font-size:20px;">
-        <dd>🌱 I’m currently learning to set my deploying-process up with <a href="https://www.docker.com/" target="_blank">Docker</a> and <a href="https://www.jenkins.io/" target="_blank">Jenkins</a>.</dd>
+        <dd>🌱 I’m currently learning to set my deploying-process up with <a href="https://www.jenkins.io/" target="_blank">Jenkins</a> and how to improve file-handling in backend.</dd>
         <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
     </dl>
 </div>
@@ -93,7 +93,7 @@ A website to inform about my fathers taxi services including custom price calcul
 </h3>
 
 <p style="font-size: 18px;">
-A backend application to handle bug reports or support on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development.
+A backend application to handle bug reports or support-tickets on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development. Additional features: Api-Key authentication, rate-limiting and email-notifications.
 </p>
 
 <div style="margin-bottom: 75px;">
