@@ -93,7 +93,7 @@ A website to inform about my fathers taxi services including custom price calcul
 </h3>
 
 <p style="font-size: 18px;">
-A backend application to handle bug reports or support-tickets on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development. Additional features: Api-Key authentication, rate-limiting, demo route and email-notifications.
+A backend application to handle bug reports or support-tickets on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development. Additional features: Api-Key authentication, rate-limiting, filtered search, demo route and email-notifications.
 </p>
 
 <div style="margin-bottom: 75px;">
