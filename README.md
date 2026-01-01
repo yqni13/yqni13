@@ -35,7 +35,7 @@
 
 <div>
     <dl style="font-size:20px;">
-        <dd>🌱 I’m currently learning about message/task queues and how to set my deploying-process up with <a href="https://www.jenkins.io/" target="_blank">Jenkins</a>.</dd>
+        <dd>🌱 I’m currently learning about guardrails, resilience patterns and cross-cutting concerns.</dd>
         <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
     </dl>
 </div>
