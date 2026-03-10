@@ -35,7 +35,7 @@
 
 <div>
     <dl style="font-size:20px;">
-        <dd>🌱 I’m currently learning about guardrails, resilience patterns and cross-cutting concerns.</dd>
+        <dd>🌱 I’m currently learning more about architectural patterns in depth.</dd>
         <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
     </dl>
 </div>
@@ -50,12 +50,31 @@ Current projects
 
 <h3 style="font-size: 22px;">
 
+[Support hub](https://github.com/yqni13/support)
+
+</h3>
+
+<p style="font-size: 18px;">
+Handling feedback & ratings and bug/support requests including file attachments across multiple applications via REST API built with NodeJS (Typescript), Express & PostgreSQL in Docker container. Created following Test-Driven Development (450+ tests including ephemeral database by testcontainers) and hosting env:prod via Render, Neon and Cloudflare.
+</p>
+
+<div style="margin-bottom: 75px;">
+    <img
+        src="assets/project_support.jpg"
+        alt="_image_project_support"
+        style="border-style:solid;border-radius:4px;border-width:3px;border-color:darkmagenta;"
+    >
+</div>
+
+
+<h3 style="font-size: 22px;">
+
 [Art gallery](https://github.com/yqni13/artcreation-dv)
 
 </h3>
 
 <p style="font-size: 18px;">
-An art gallery website to display the artist (my lovely mom), her artwork and news about future/current/past exhibitions. Images are handled by PostgreSQL database combined with Cloudflare CDN. The web application uses Angular + NodeJS (Javascript) and is hosted via Netlify, Vercel and Neon.
+An art gallery website to display the artist (my lovely mom), her artwork and news about future/current/past exhibitions. Images are stored in cloud storage, with their paths persisted in a PostgreSQL database. The web application uses Angular + NodeJS (Javascript) and is hosted via Netlify, Vercel, Neon and Cloudflare.
 </p>
 
 <div style="margin-bottom: 75px;">
@@ -82,25 +101,6 @@ A website to inform about my fathers taxi services including custom price calcul
         src="assets/project_taxi-varga.jpg"
         alt="_image_project_taxi-varga"
         style="border-style:solid;border-radius:4px;border-width:3px;border-color:peru;"
-    >
-</div>
-
-
-<h3 style="font-size: 22px;">
-
-[Support service](https://github.com/yqni13/support)
-
-</h3>
-
-<p style="font-size: 18px;">
-A backend application to handle bug reports or support-tickets on request. The application will use (alpha version) PostgreSQL database and Cloudflare CDN to handle resources and full Docker/Jenkins setup to host on Render. Using NodeJS (Typescript) and TDD methodology for project development. Additional features: Api-Key authentication, rate-limiting, filtered search, demo route and email-notifications.
-</p>
-
-<div style="margin-bottom: 75px;">
-    <img
-        src="assets/project_support.jpg"
-        alt="_image_project_support"
-        style="border-style:solid;border-radius:4px;border-width:3px;border-color:darkmagenta;"
     >
 </div>
 
