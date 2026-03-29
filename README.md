@@ -6,76 +6,55 @@
     >
 </div>
 
-<h1 align="center">
-    <span>Hey, I'm </span>
-    <a href="https://yqni13.com">Lukas Varga</a>
-    🧸
-</h1>
+<div align="center">
 
-<h3 align="center">
-    <span>
-        Web Development from Austria&nbsp;
-    </span>
-    <img
-        src="assets/flag.png"
-        width="25px"
-        alt="_flag_Austria"
-    >
-</h3>
+# Hey, I'm Fullstack developer [$\textsf{\color{orchid}{Lukas Varga}}$ 👩🏻‍💻](https://yqni13.com)
 
-<br>
+</div>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" height="40px">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" height="40px">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" height="40px">
+
+</div>
+
+<br><br>
 
 <div align="center" style="white-space:nowrap;">
         <img src="https://github-readme-stats.vercel.app/api?username=yqni13&theme=omni&hide=contribs,prs&hide_border=false" alt="_yqni13_GitHub_Stats" style="height:120px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqni13&theme=omni&show_icons=true&hide_border=false&layout=compact" alt="_yqni13_GitHub_Languages" style="height:120px;">
-        <img src="https://nirzak-streak-stats.vercel.app/?user=yqni13&theme=omni&hide_border=false" alt="_yqni13_GitHub_Streak" style="height:120px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqni13" alt="_yqni13_GitHub_Languages" style="height:120px;">
+        <img src="https://streak-stats.vercel.app/?user=yqni13&theme=omni&hide_border=false" alt="_yqni13_GitHub_Streak" style="height:120px;">
 </div> 
 
 <br>
 
-<div>
-    <dl style="font-size:20px;">
-        <dd>🌱 I’m currently learning more about architectural patterns in depth.</dd>
-        <dd>👯 I’m looking to collaborate on Angular / NodeJS or .NET projects.</dd>
-    </dl>
+<div align="center">
+
+### I’m currently learning more about $\textsf{\color{goldenrod}{animations on scroll}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
+
 </div>
 
 <br>
 
-<h2 style="font-size:26px;">
-Current projects
-</h2>
 
-<br>
+## ⭐ [$\textsf{\color{salmon}{Support hub}}$](https://github.com/yqni13/support)
 
-<h3 style="font-size: 22px;">
-
-[Support hub](https://github.com/yqni13/support)
-
-</h3>
-
-<p style="font-size: 18px;">
-Handling feedback & ratings and bug/support requests including file attachments across multiple applications via REST API built with NodeJS (Typescript), Express & PostgreSQL in Docker container. Created following Test-Driven Development (450+ tests including ephemeral database by testcontainers) and hosting env:prod via Render, Neon and Cloudflare.
-</p>
+### Handling feedback & ratings and bug/support requests including file attachments across multiple applications via REST API built with $\textsf{\color{goldenrod}{NodeJS}}$ (Typescript), Express & $\textsf{\color{goldenrod}{PostgreSQL}}$ in $\textsf{\color{goldenrod}{Docker}}$ container. Created following Test-Driven Development (450+ tests including ephemeral database by testcontainers) and hosting env:prod via Render, Neon and $\textsf{\color{goldenrod}{Cloudflare}}$.
 
 <div style="margin-bottom: 75px;">
     <img
         src="assets/project_support.jpg"
         alt="_image_project_support"
-        style="border-style:solid;border-radius:4px;border-width:3px;border-color:darkmagenta;"
     >
 </div>
 
 
-<h3 style="font-size: 22px;">
+## 🖼️ [$\textsf{\color{salmon}{Art gallery}}$](https://github.com/yqni13/artcreation-dv)
 
-[Art gallery](https://github.com/yqni13/artcreation-dv)
+### An art gallery website to display the artist (my lovely mom), her artwork and news about future/current/past exhibitions. Images are stored in cloud storage, with their paths persisted in a $\textsf{\color{goldenrod}{PostgreSQL}}$ database. The web application uses $\textsf{\color{goldenrod}{Angular}}$ and $\textsf{\color{goldenrod}{NodeJS}}$ (Javascript) and is hosted via Netlify, Vercel, Neon and $\textsf{\color{goldenrod}{Cloudflare}}$.
 
-</h3>
-
-<p style="font-size: 18px;">
-An art gallery website to display the artist (my lovely mom), her artwork and news about future/current/past exhibitions. Images are stored in cloud storage, with their paths persisted in a PostgreSQL database. The web application uses Angular + NodeJS (Javascript) and is hosted via Netlify, Vercel, Neon and Cloudflare.
-</p>
+### visit the <a href="https://artcreation-dv.at" target="_blank">WEBSITE</a>
 
 <div style="margin-bottom: 75px;">
     <img
@@ -86,17 +65,13 @@ An art gallery website to display the artist (my lovely mom), her artwork and ne
 </div>
 
 
-<h3 style="font-size: 22px;">
+## 🚕 [$\textsf{\color{salmon}Taxi Service}$](https://github.com/yqni13/taxi-varga)
 
-[Taxi services](https://github.com/yqni13/taxi-varga)
+### A website to inform about my fathers taxi services including custom price calculation tools and mail-reservation. Route calculations are based on $\textsf{\color{goldenrod}{Google API}}$ for Routes, Places and Geolocation. The web application uses $\textsf{\color{goldenrod}{Angular}}$ and $\textsf{\color{goldenrod}{NodeJS}}$ (Javascript) and is hosted via Netlify and Vercel.
 
-</h3>
+### visit the <a href="https://taxi-varga.at" target="_blank">WEBSITE</a>
 
-<p style="font-size: 18px;">
-A website to inform about my fathers taxi services including custom price calculation tools and mail-reservation. Route calculations are based on Google API for Routes, Places and Geolocation. The web application uses Angular + NodeJS (Javascript) and is hosted via Netlify and Vercel.
-</p>
-
-<div style="margin-bottom: 75px;">
+<div style="margin-bottom: 25px;">
     <img
         src="assets/project_taxi-varga.jpg"
         alt="_image_project_taxi-varga"
@@ -104,6 +79,7 @@ A website to inform about my fathers taxi services including custom price calcul
     >
 </div>
 
-<br><br>
+<br>
 
-Visit me for more information: [Homepage](https://yqni13.com)
+> [!TIP]
+> ### Visit me for more information: [$\textsf{\color{limegreen}My Homepage}$](https://yqni13.com)
