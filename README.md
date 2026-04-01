@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# Hey, I'm Fullstack developer $\textsf{\color{orchid}{Lukas Varga}}$
+# Hey, I'm $\textsf{\color{orchid}{Lukas Varga}}$ [Full-Stack Developer]
 
 </div>
 
@@ -16,18 +16,14 @@
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&scale=2">
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff">
     <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff">
 </div>
 
 <br><br>
 
 <div align="center" style="white-space:nowrap;">
-        <img src="https://github-readme-stats.vercel.app/api?username=yqni13&theme=omni&hide=contribs,prs&hide_border=false" alt="_yqni13_GitHub_Stats" style="height:120px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqni13" alt="_yqni13_GitHub_Languages" style="height:120px;">
         <img src="https://streak-stats.vercel.app/?user=yqni13&theme=omni&hide_border=false" alt="_yqni13_GitHub_Streak" style="height:120px;">
-</div> 
+</div>
 
 <br>
 
