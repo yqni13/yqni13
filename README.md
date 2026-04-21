@@ -13,10 +13,10 @@
 </div>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white&scale=2">
     <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
 </div>
 
 <br><br>
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### I’m currently learning more about $\textsf{\color{goldenrod}{animations on scroll}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
+### As working with AI has become unavoidable I direct my focus now upon AI Skills. I’m currently learning about $\textsf{\color{goldenrod}{Prompt Engineering}}$ and $\textsf{\color{goldenrod}{AI Agents}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
 
 </div>
 
