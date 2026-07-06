@@ -1,6 +1,6 @@
 <div style="width: 100%; margin-bottom: 30px;">
     <img 
-        src="assets/banner.jpg" 
+        src="assets/banner.png" 
         alt="_image_banner" 
         style="border-style:solid;border-color:darkorchid;border-radius:4px;border-width:3px;"
     >
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### As working with AI has become unavoidable I direct my focus now upon AI Skills. I’m currently learning about $\textsf{\color{goldenrod}{Prompt Engineering}}$ and $\textsf{\color{goldenrod}{AI Agents}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
+### As working with AI has become unavoidable I direct my focus now upon AI Skills. I’m currently advancing my knowledge about $\textsf{\color{goldenrod}{.NET framework}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
 
 </div>
 
@@ -38,7 +38,7 @@
 
 ## ⭐ $\textsf{\color{salmon}{Support hub}}$
 
-### Handling feedback & ratings and bug/support requests including file attachments across multiple applications via REST API built with $\textsf{\color{goldenrod}{NodeJS}}$ (Typescript), Express & $\textsf{\color{goldenrod}{PostgreSQL}}$ in $\textsf{\color{goldenrod}{Docker}}$ container. Created following Test-Driven Development (450+ tests including ephemeral database by testcontainers) and hosting env:prod via Render, Neon and $\textsf{\color{goldenrod}{Cloudflare}}$.
+### Handling feedback & ratings and bug/support requests including file attachments across multiple applications via REST API built with $\textsf{\color{goldenrod}{NodeJS}}$ (TypeScript), Express & $\textsf{\color{goldenrod}{PostgreSQL}}$ in $\textsf{\color{goldenrod}{Docker}}$ container. Created following Test-Driven Development (450+ tests including ephemeral database by testcontainers) and hosting env:prod via Render, Neon and $\textsf{\color{goldenrod}{Cloudflare}}$.
 
 <div>
     <img
