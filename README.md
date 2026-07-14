@@ -29,7 +29,7 @@
 
 <div align="center">
 
-### As working with AI has become unavoidable I direct my focus now upon AI Skills. I’m currently advancing my knowledge about $\textsf{\color{goldenrod}{.NET framework}}$ in depth 🌱.<br>The following shows my current main projects, descriptions and reasons why I built them:
+### As working with AI has become unavoidable I acquired my Google AI certificate and use AI tools more efficient to support my learning process. I’m currently refreshing and advancing my $\textsf{\color{goldenrod}{.NET framework skills}}$. Additionally, I work on my next certificate regarding my career as Full Stack developer. <br><br>The following shows my current main projects, descriptions and reasons why I built them:
 
 </div>
 
